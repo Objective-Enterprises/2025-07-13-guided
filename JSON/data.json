@@ -49,6 +49,16 @@
       "category": "Others",
       "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
       "id": "8e0a"
+    },
+    {
+      "id": "aa14",
+      "name": "a",
+      "price": "1",
+      "quantity": "a",
+      "description": "a",
+      "isAvailable": "Yes",
+      "category": "Clothing",
+      "image": "http://a.com"
     }
   ],
   "categories": [
